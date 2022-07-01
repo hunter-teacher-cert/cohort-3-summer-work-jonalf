@@ -1,6 +1,6 @@
-* Last name:
-* First name:
-* Github username:
+* Last name: Dyrland-Weaver
+* First name: JonAlf
+* Github username: jonalf
 
 * Instructions:
 
