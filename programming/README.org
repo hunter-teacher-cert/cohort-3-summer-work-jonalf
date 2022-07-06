@@ -1,3 +1,4 @@
 * Programming in a High Level Language
 
 Place all assignments for the Programming class in this folder as directed by the course instructors.
+
